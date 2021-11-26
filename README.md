@@ -24,6 +24,6 @@
   3.Abscissa difference: dx = |goal_x – node_x|
   4.Ordinate difference: dy = |goal_y – node_y|
   5.Diagonal heuristics: h = D1* |dx - dy| + D2* min(dx, dy)
- 
-
+# Build
+ 1. If you are using non-Linux OS, then see how to build SFML and compile programs for your Operating System [](https://www.sfml-dev.org/tutorials/2.5/#getting-started)
 
