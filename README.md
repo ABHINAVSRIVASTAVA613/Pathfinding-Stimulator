@@ -2,7 +2,7 @@
 1.A pathfinding simulator using SFML(Simple and Fast Multimedia Library) for comparing optimality and speed of Dijkstra and A* algorithms.
 # Video Analysis
 ![This is an image](https://raw.githubusercontent.com/UditSinghParihar/Pathfinding_Simulator/master/astar_vs_dijkstra.jpg)
-# 1. Stimulation video
+# 1. Stimulation video [Link](https://www.youtube.com/watch?v=ka6CI1Seohw&t=29s)
 # Implementation
 # #1.Color coding :
   1. Open cells - White
