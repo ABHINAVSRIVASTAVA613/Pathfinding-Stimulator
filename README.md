@@ -26,4 +26,18 @@
    5. Diagonal heuristics: h = D1* |dx - dy| + D2* min(dx, dy)
 # Build
   1. If you are using non-Linux OS, then see how to build SFML and compile programs for your Operating System [Link](https://www.sfml-dev.org/tutorials/2.5/#getting-started)
+  2. If you are using Ubuntu or other Linux distros, then for a quick compilation:
+     1. Clone the repository:
+         a. git clone https://github.com/UditSinghParihar/Pathfinding_Simulator
+         b. cd Pathfinding_Simulator
+     2. Install sfml: sudo apt-get install libsfml-dev
+     3. Complile simulator.cpp :
+     4. g++ simulator.cpp -std=c++11 -lsfml-window -lsfml-system -lsfml-graphics
+     5. Run the exectuable : ./a.out
+  # TODO
+   1. Place the text in button menu.
+   2. Add smooth selection of blocking cells(obstacle cells), by clicking left mouse and hovering over the cells.
+   3. Add CMake build system for easy compilation.
+   4. Refactoring code into headers and OOPS style.
+
 
