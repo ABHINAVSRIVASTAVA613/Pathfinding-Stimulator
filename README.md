@@ -28,7 +28,7 @@
   1. If you are using non-Linux OS, then see how to build SFML and compile programs for your Operating System [Link](https://www.sfml-dev.org/tutorials/2.5/#getting-started)
   2. If you are using Ubuntu or other Linux distros, then for a quick compilation:
      1. Clone the repository:
-         a. git clone https://github.com/UditSinghParihar/Pathfinding_Simulator
+         a. git clone https://github.com/ABHINAVSRIVASTAVA613/Pathfinding-Stimulator
          b. cd Pathfinding_Simulator
      2. Install sfml: sudo apt-get install libsfml-dev
      3. Complile simulator.cpp :
